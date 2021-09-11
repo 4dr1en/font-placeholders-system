@@ -1,0 +1,29 @@
+@use '../abstracts/typography';
+
+h1 {
+    @extend %font-xl;
+}
+
+h2 {
+    @extend %font-lg;
+}
+
+p {
+    @extend %font-md;
+}
+
+.description {
+    @extend %font-md;
+}
+
+.textseo {
+    @extend %font-sm;
+}
+
+.little-text {
+    @extend %font-sm;
+}
+
+.paragraphe {
+    @extend %font-md;
+}

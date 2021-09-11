@@ -1,0 +1,83 @@
+.textseo, .little-text {
+  font-size: 0.8rem;
+  line-height: 1.1;
+}
+
+@media (min-width: 992px) {
+  .textseo, .little-text {
+    font-size: 0.9rem;
+    line-height: 1.1;
+  }
+}
+
+@media (min-width: 1400px) {
+  .textseo, .little-text {
+    font-size: 0.9rem;
+    line-height: 1.1;
+  }
+}
+
+p, .description, .paragraphe {
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+@media (min-width: 992px) {
+  p, .description, .paragraphe {
+    font-size: 1.1rem;
+    line-height: 1.1;
+  }
+}
+
+@media (min-width: 1400px) {
+  p, .description, .paragraphe {
+    font-size: 1.2rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  font-size: 1.2rem;
+  line-height: 1.1;
+}
+h2::first-letter {
+  text-transform: uppercase;
+}
+
+@media (min-width: 992px) {
+  h2 {
+    font-size: 1.3rem;
+    line-height: 1.2;
+  }
+}
+
+@media (min-width: 1400px) {
+  h2 {
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+}
+
+h1 {
+  font-size: 1.6rem;
+  line-height: 1.3;
+}
+h1::first-letter {
+  text-transform: uppercase;
+}
+
+@media (min-width: 992px) {
+  h1 {
+    font-size: 1.8rem;
+    line-height: 1.4;
+  }
+}
+
+@media (min-width: 1400px) {
+  h1 {
+    font-size: 2rem;
+    line-height: 1.4;
+  }
+}
+
+/*# sourceMappingURL=index.css.map */

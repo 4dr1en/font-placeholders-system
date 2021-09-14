@@ -66,16 +66,9 @@ h1::first-letter {
   text-transform: uppercase;
 }
 
-@media (min-width: 992px) {
-  h1 {
-    font-size: 1.8rem;
-    line-height: 1.4;
-  }
-}
-
 @media (min-width: 1400px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 1.4;
   }
 }
